@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 git_learning_2.iml
+.idea
 
 ### Eclipse ###
 .apt_generated
